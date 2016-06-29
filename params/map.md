@@ -20,7 +20,7 @@ data.tooltip
   * 参数描述: 控制提示框显示隐藏
 
   ###### 备注
-    >  show: false
+  >  show: false
 
 ##### style
   * 参数类型: obj
